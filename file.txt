@@ -1,0 +1,5 @@
+total 16
+-rw-r--r--  1 wanglongfeng  staff   30 10 26 21:47 file.py
+-rw-r--r--  1 wanglongfeng  staff    0 10 26 21:52 file.txt
+-rw-r--r--  1 wanglongfeng  staff  109 10 26 18:08 multiplychart.py
+hello
